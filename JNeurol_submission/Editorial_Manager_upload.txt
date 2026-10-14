@@ -1,6 +1,9 @@
 Journal of Neurology (Springer) — files to upload in Editorial Manager
 Article type: Original Communication
 
+0. Cover letter (Word)
+   Cover_letter.docx
+
 1. Manuscript (Word, figures already in the text)
    Newmanuscript.docx
 

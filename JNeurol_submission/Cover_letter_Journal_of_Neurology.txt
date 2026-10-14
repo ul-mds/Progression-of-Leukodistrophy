@@ -1,0 +1,42 @@
+Dear Editor-in-Chief,
+
+We submit for your consideration an Original Communication entitled:
+
+“Progression from myeloneuropathy to cerebral disease in men with X-linked adrenoleukodystrophy studied using a Human Phenotype Ontology-based approach.”
+
+All authors have approved the manuscript and agree with its submission to the Journal of Neurology. The work has not been published previously and is not under consideration elsewhere.
+
+Clinical problem and relevance for your readership
+In men with X-linked adrenoleukodystrophy (X-ALD), inflammatory cerebral disease can follow a myeloneuropathic presentation, yet the risk and timing of this transition remain uncertain in routine care. Counselling, surveillance, and trial design therefore depend on natural history estimates that are still sparse and difficult to compare across centres. The Journal of Neurology is an appropriate forum because the question is directly relevant to clinical neurology, prognostication, and the longitudinal assessment of rare white matter disorders.
+
+What this paper adds
+Using the Leipzig leukodystrophy registry, we estimated the cumulative incidence of a first physician-recorded cerebral adrenoleukodystrophy (cerebral ALD) event in men who presented with myelopathic disease and had no cerebral ALD at their first dated visit. Among 67 men at risk (median follow-up 86 months; 20 events), cumulative incidence was 6.5% at 3 years, 10.2% at 5 years, and 24.3% (95% CI 13.8 to 40.7) at 10 years. We describe baseline and HPO-coded findings in the full cohort and discuss how these results relate to earlier cohorts. We state clearly that the analyses are exploratory and hypothesis-generating and that magnetic resonance imaging surveillance remains essential.
+
+Original HPO Symptom Grouping Dataset
+The principal methodological contribution is a new, study-specific HPO Symptom Grouping Dataset (Online Resource 1), developed by the clinical authors to map registry examination items to 133 distinct HPO terms grouped into myelopathic and cerebral subgroups with neuroanatomical localisation. To our knowledge, no prior study has used standardised HPO-coded phenotypes to analyse progression from myeloneuropathy to cerebral disease in leukodystrophy. This dataset is original to the present work and is intended to support reproducible, multicentre natural history research; it is also available with the submission materials at https://github.com/ul-mds/Progression-of-Leukodistrophy.
+
+Clinical authorship and expertise
+The grouping reflects long-standing clinical phenotyping practice at our centre. Professor Wolfgang Köhler, who co-developed the dataset and supervised its clinical content, has dedicated his career to the diagnosis and longitudinal care of leukodystrophy and was among the physicians involved in the early clinical recognition of these disorders in adult neurology. His contribution ensures that the ontology mapping remains anchored in bedside examination and registry practice rather than in automated coding alone.
+
+Reporting and transparency
+We report the study according to the STROBE and RECORD statements. Registry governance, data availability, and the separation of this analysis from an earlier exploratory modelling exercise on the same registry are described in the manuscript. Competing interests and funding are declared in full.
+
+We believe the manuscript will interest clinicians who manage X-ALD and related leukodystrophies, as well as investigators building registry-based natural history and interoperable phenotype data. We would be grateful for your consideration.
+
+Suggested reviewers (optional; institutional e-mail addresses available on request):
+Independent experts in X-ALD natural history, leukodystrophy registries, and HPO-based clinical data standards would be suitable.
+
+Thank you for your time.
+
+Sincerely,
+
+Senol Dogan, PhD
+Corresponding author
+Institute for Medical Informatics, Statistics and Epidemiology
+Medical Faculty, Leipzig University
+Härtelstr. 16–18, 04107 Leipzig, Germany
+Senol.Dogan@medizin.uni-leipzig.de
+ORCID: 0000-0001-7358-4850
+
+On behalf of all co-authors:
+Wolfgang Köhler, Caroline Bergner, Julia Lier, Sina Sadeghi, Toralf Kirsten
