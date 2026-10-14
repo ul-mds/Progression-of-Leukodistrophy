@@ -1,3 +1,10 @@
+[Letterhead: Leipzig University / Medical Center / project logos — see Cover_letter.docx]
+
+14 October 2026
+
+Editor-in-Chief
+Journal of Neurology
+
 Dear Editor-in-Chief,
 
 Please consider the enclosed manuscript for publication as an Original Communication in the Journal of Neurology.
@@ -30,3 +37,17 @@ ORCID: 0000-0001-7358-4850
 
 On behalf of all co-authors:
 Wolfgang Köhler, Caroline Bergner, Julia Lier, Sina Sadeghi, Toralf Kirsten
+
+Relevant experience
+
+Senol Dogan. He is a bioinformatician and biostatistician in the Department for Medical Data Science at Leipzig University, with a doctorate in genetics and bioengineering. For this manuscript he designed the analysis, performed the statistical work, and wrote the first draft. He is the corresponding author.
+
+Toralf Kirsten. He is Professor of Medical Data Science at Leipzig University. His research concerns the analysis of clinical registry data in rare neurological disease. He supervised the project and revised the manuscript.
+
+Wolfgang Köhler. He is a neurologist at Leipzig University Medical Center and head of the leukodystrophy clinic at the Myelin Centre. He cares for adults with leukodystrophy, co-developed the HPO Symptom Grouping Dataset for this study, and contributed long-standing clinical expertise in phenotyping and natural history. He was among the physicians involved in the early clinical recognition of leukodystrophy in adult neurology.
+
+Caroline Bergner. She is a neurologist at Leipzig University Medical Center. She leads the Leukodystrophy Laboratory and the adult leukodystrophy outpatient clinic. Her research concerns how hereditary leukodystrophies present in adults. She helped to interpret the data and revised the manuscript.
+
+Julia Lier. She is a clinician scientist in the Leukodystrophy Laboratory and a physician in the Department of Neurology at Leipzig. She works with adults who have leukodystrophy and contributed to the clinical interpretation of the registry phenotypes used here.
+
+Sina Sadeghi. She is a researcher in medical data science at Leipzig University. She contributed to the analysis and revised the manuscript.
