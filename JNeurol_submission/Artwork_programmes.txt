@@ -1,0 +1,11 @@
+Graphics programmes used to create the artwork
+(Journal of Neurology: indicate what graphics program was used.)
+
+Fig. 1  Combination illustration exported as RGB TIFF. Authors must confirm the source software, licensing/provenance of the anatomical artwork, and whether any generative-AI tool was used.
+Fig. 2  Python 3 (matplotlib), Times New Roman, 600 dpi RGB TIFF.
+Fig. 3  Python 3 (matplotlib, lifelines), Times New Roman, 600 dpi RGB TIFF.
+Fig. 4  Python 3 (matplotlib), Times New Roman, 600 dpi RGB TIFF.
+Fig. 5  Python 3 (matplotlib, seaborn), Times New Roman, 600 dpi RGB TIFF.
+Fig. 6  Python 3 (matplotlib), Times New Roman, 600 dpi RGB TIFF.
+Fig. 7  Python 3 (matplotlib), Times New Roman, 600 dpi RGB TIFF.
+Fig. S1 Python 3 (matplotlib), Times New Roman, 600 dpi, embedded in ESM_2.pdf.

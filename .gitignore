@@ -1,0 +1,4 @@
+~$*
+*.docx.bak
+*.docx.tmp
+.DS_Store

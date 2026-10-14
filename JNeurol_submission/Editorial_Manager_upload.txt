@@ -1,0 +1,28 @@
+Journal of Neurology (Springer) — files to upload in Editorial Manager
+Article type: Original Communication
+
+1. Manuscript (Word, figures already in the text)
+   Newmanuscript.docx
+
+2. Figures (also supply electronically; RGB TIFF; combination art)
+   Fig1.tif   HPO Symptom Grouping Dataset (combination illustration)
+   Fig2.tif   Study flow
+   Fig3.tif   Cumulative incidence
+   Fig4.tif   Forest plots (panels a, b)
+   Fig5.tif   Profile heatmap
+   Fig6.tif   Myelopathic-cerebral associations
+   Fig7.tif   HPO findings by cerebral ALD record
+   Captions stay in the manuscript, not in the figure files.
+
+3. Supplementary Information (name as Online Resource in the text)
+   ESM_1.xlsx   Online Resource 1 — HPO Symptom Grouping Dataset
+   ESM_2.pdf    Online Resource 2 — Supplementary Methods, Tables S1-S10, Fig. S1
+   Do not upload ESM_2 as .docx; the journal asks for PDF for text SI.
+
+4. Artwork programmes (enter in the submission form or cover letter)
+   See Artwork_programmes.txt
+
+Do not upload separate table files. Tables 1-6 are in the manuscript.
+Do not upload Fig. S1 as a main figure; it is inside ESM_2.pdf.
+Before upload, complete and approve all remaining yellow fields in the manuscript (funding organisation names, competing interests, ethics, consent, AI-use statement, and author confirmation), then remove all yellow highlighting.
+Online Resources are published as supplied; inspect ESM_1.xlsx and ESM_2.pdf one final time.
