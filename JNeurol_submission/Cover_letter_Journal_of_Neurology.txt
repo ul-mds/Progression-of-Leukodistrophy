@@ -1,34 +1,24 @@
 Dear Editor-in-Chief,
 
-We submit for your consideration an Original Communication entitled:
+Please consider the enclosed manuscript for publication as an Original Communication in the Journal of Neurology.
 
-“Progression from myeloneuropathy to cerebral disease in men with X-linked adrenoleukodystrophy studied using a Human Phenotype Ontology-based approach.”
+Title: Progression from myeloneuropathy to cerebral disease in men with X-linked adrenoleukodystrophy studied using a Human Phenotype Ontology-based approach
 
-All authors have approved the manuscript and agree with its submission to the Journal of Neurology. The work has not been published previously and is not under consideration elsewhere.
+The manuscript has not been published elsewhere and is not under consideration by another journal. All authors have read and approved the final version and agree with its submission.
 
-Clinical problem and relevance for your readership
-In men with X-linked adrenoleukodystrophy (X-ALD), inflammatory cerebral disease can follow a myeloneuropathic presentation, yet the risk and timing of this transition remain uncertain in routine care. Counselling, surveillance, and trial design therefore depend on natural history estimates that are still sparse and difficult to compare across centres. The Journal of Neurology is an appropriate forum because the question is directly relevant to clinical neurology, prognostication, and the longitudinal assessment of rare white matter disorders.
+Men with X-linked adrenoleukodystrophy (X-ALD) may remain on a myeloneuropathic trajectory for years before inflammatory cerebral adrenoleukodystrophy (cerebral ALD) is recognised. In clinical practice, estimates of when and how often this transition occurs remain inconsistent, which complicates counselling and the design of surveillance and natural history studies. We address this question using longitudinal data from the Leipzig leukodystrophy registry (REDCap), a setting in which neurologists record disease manifestation and Human Phenotype Ontology (HPO)-coded examination findings at repeated visits.
 
-What this paper adds
-Using the Leipzig leukodystrophy registry, we estimated the cumulative incidence of a first physician-recorded cerebral adrenoleukodystrophy (cerebral ALD) event in men who presented with myelopathic disease and had no cerebral ALD at their first dated visit. Among 67 men at risk (median follow-up 86 months; 20 events), cumulative incidence was 6.5% at 3 years, 10.2% at 5 years, and 24.3% (95% CI 13.8 to 40.7) at 10 years. We describe baseline and HPO-coded findings in the full cohort and discuss how these results relate to earlier cohorts. We state clearly that the analyses are exploratory and hypothesis-generating and that magnetic resonance imaging surveillance remains essential.
+In a retrospective cohort of 146 men with a myelopathic onset, 65 had cerebral ALD at the first dated visit. Among 67 men without cerebral ALD at entry and with follow-up (median 86 months; 20 conversion events), the cumulative incidence of a first physician-recorded cerebral ALD event was 6.5% at 3 years, 10.2% at 5 years, and 24.3% (95% CI 13.8 to 40.7) at 10 years. Baseline clinical and HPO-coded features did not identify converters after adjustment for multiple testing. We relate these estimates to earlier cohorts and emphasise that the analyses are exploratory; magnetic resonance imaging surveillance remains the standard for detecting cerebral disease.
 
-Original HPO Symptom Grouping Dataset
-The principal methodological contribution is a new, study-specific HPO Symptom Grouping Dataset (Online Resource 1), developed by the clinical authors to map registry examination items to 133 distinct HPO terms grouped into myelopathic and cerebral subgroups with neuroanatomical localisation. To our knowledge, no prior study has used standardised HPO-coded phenotypes to analyse progression from myeloneuropathy to cerebral disease in leukodystrophy. This dataset is original to the present work and is intended to support reproducible, multicentre natural history research; it is also available with the submission materials at https://github.com/ul-mds/Progression-of-Leukodistrophy.
+A central element of the paper is an original HPO Symptom Grouping Dataset (Online Resource 1), developed by the clinical authors for this study. It maps 135 registry examination items to 133 distinct HPO terms in myelopathic and cerebral subgroups with neuroanatomical localisation. To our knowledge, standardised HPO-coded phenotypes have not previously been used to study progression from myeloneuropathy to cerebral disease in leukodystrophy. The dataset and submission materials are available at https://github.com/ul-mds/Progression-of-Leukodistrophy.
 
-Clinical authorship and expertise
-The grouping reflects long-standing clinical phenotyping practice at our centre. Professor Wolfgang Köhler, who co-developed the dataset and supervised its clinical content, has dedicated his career to the diagnosis and longitudinal care of leukodystrophy and was among the physicians involved in the early clinical recognition of these disorders in adult neurology. His contribution ensures that the ontology mapping remains anchored in bedside examination and registry practice rather than in automated coding alone.
+The clinical mapping reflects phenotyping practice at our centre. Professor Wolfgang Köhler, who co-developed the dataset, has long-standing expertise in the diagnosis and longitudinal care of leukodystrophy, including early clinical characterisation of these disorders in adult neurology. The study is reported according to the STROBE and RECORD statements; funding, competing interests, data availability, and the distinction between this analysis and an earlier exploratory registry exercise are documented in the manuscript.
 
-Reporting and transparency
-We report the study according to the STROBE and RECORD statements. Registry governance, data availability, and the separation of this analysis from an earlier exploratory modelling exercise on the same registry are described in the manuscript. Competing interests and funding are declared in full.
+We respectfully suggest that the work will be of interest to clinicians and researchers concerned with X-ALD, leukodystrophy registries, and interoperable clinical phenotype data. We would be grateful if you could arrange peer review. Institutional e-mail addresses for suggested reviewers can be provided on request.
 
-We believe the manuscript will interest clinicians who manage X-ALD and related leukodystrophies, as well as investigators building registry-based natural history and interoperable phenotype data. We would be grateful for your consideration.
+Thank you for your consideration.
 
-Suggested reviewers (optional; institutional e-mail addresses available on request):
-Independent experts in X-ALD natural history, leukodystrophy registries, and HPO-based clinical data standards would be suitable.
-
-Thank you for your time.
-
-Sincerely,
+Yours sincerely,
 
 Senol Dogan, PhD
 Corresponding author
